@@ -19,7 +19,6 @@
                         <p class="product-description">{product.description}</p>
                         <div class="product-price-container">
                             <span class="product-price">${product.price}</span>
-                            <button class="product-button">Add to Cart</button>
                         </div>
                     </div>
                 </div>
