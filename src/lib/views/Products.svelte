@@ -7,7 +7,7 @@
 
 <div class="background">
     <div class="container">
-        <h1 class="page-title">Products</h1>
+        <h1 class="page-title">Tanks</h1>
         <div class="products">
             {#each $products as product}
                 <div class="product">
